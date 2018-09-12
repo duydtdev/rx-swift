@@ -1,0 +1,6 @@
+framework module Pods_SubjectsAndVariablePlayground {
+  umbrella header "Pods-SubjectsAndVariablePlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}

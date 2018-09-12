@@ -1,0 +1,6 @@
+framework module Pods_CombiningOperatorsPlayground {
+  umbrella header "Pods-CombiningOperatorsPlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
